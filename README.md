@@ -16,10 +16,10 @@ Here is the same calculation in SageMath
 ### How to Use
 
 1. Clone the repository 
-'''git clone https://github.com/kenkomu/langrange_interpolation'''
+```git clone https://github.com/kenkomu/langrange_interpolation```
 
 2. Install necessary packages
-'''cargo add num-rational'''
+```cargo add num-rational```
 
 3. Run the project 
-'''cargo run'''
+```cargo run```
