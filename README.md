@@ -11,3 +11,15 @@ Here is the result
 Here is the same calculation in SageMath 
 
 ![](image.png)
+
+
+### How to Use
+
+1. Clone the repository 
+'''git clone https://github.com/kenkomu/langrange_interpolation'''
+
+2. Install necessary packages
+'''cargo add num-rational'''
+
+3. Run the project 
+'''cargo run'''
